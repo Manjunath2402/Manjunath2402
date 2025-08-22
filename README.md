@@ -40,7 +40,7 @@ A C++ library for performing arithmetic operations on arbitrarily large numbers.
   - Implements custom data structures to represent and manage integers and real numbers of any size.
   - Provides an simple interface by overloading standard arithmetic operators (`+`, `-`, `*`, `/`) for the custom types.
 
-- **Tech Used:** **C++**, **Makefiles**
+- **Tech Used:** C++, Makefiles
 
 ---
 
